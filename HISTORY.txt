@@ -1,15 +1,26 @@
+HISTORY OF PARTICLE ACCELERATOR MACHINES AND SCIENCE
+
 SCIENCE
+-------
+...
 
 
-TECHNOLOGY AND MACHINES (+ SCIENCE)
+TECHNOLOGY (MACHINES + Science)
+-------------------------------
 
-
-- CYCLOTRON (1932)
-- SYNCHROTRON (1950)
-- TOKAMAK-FUSION (1950)
-- STELLATOR-FUSION (1951)
-- GYROTRON (1963)
-
-
+- CYCLOTRON (1932): spiral accelerator of charged particles with target (medical applications, new materials)
+- KLYSTRON (1936): linear accelerator
+- SYNCHROCYCLOTRON (1946): medical applications + new materials -> charged particles on targets (cyclortron + variable frequency)
+- SYNCHROTRON (1948-1949): produce light in different EM regions
+- CERN IDEA IS BORN (1949)
+- TOKAMAK (1950): fusion reactor idea and design
+- STELLATOR (1950): fusion reactor idea and design
+- CERN CONSTRUCTION BEGINS (1954)
+- COLLIDERS (1960): are a type of synchrotrons and use its technology to accelerate particles.
+- GYROTRON (1963): produce sub-millimeter wavelength radiation to inject energy
+- INTERNET (1960): MIT Internet articles (1961 first studies about packet commutation) (1969 ARPANET first packets) (1983 adopts TCP/IP)
+- CERN FIRST COLLISION (1971)
+- WWW World Wide Web IS BORN AT CERN (1990)
+- JET TOKAMAK (1991): first controlled reaction at JET
 
 
